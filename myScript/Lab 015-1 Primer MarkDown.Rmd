@@ -1,0 +1,20 @@
+---
+title: "Lab 015-1 Primer MarkDown"
+author: "Nicolas Mares"
+date: "31/1/2021"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+.
+```{r}
+#Multiplicar 2 valores
+10*3
+```
